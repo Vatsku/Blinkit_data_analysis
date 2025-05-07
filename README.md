@@ -92,6 +92,23 @@ For any queries or suggestions, feel free to connect.
 
 ![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/68058007-326b-4fb5-bcf8-0d91583d61b4)
 
+SALES BY OUTLER SIZE
 
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/562cc4a2-3be1-4b35-a6b2-6b934169a16f)
 
+OUTLET ESTABLISHMENT
+
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/b2de66c9-8661-461a-84d4-a35df39f15aa)
+
+OUTLET TIER BY FAT CONTENT
+
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/ff20ecef-3d62-41e8-9b90-4a0e325d297e)
+
+TOTAL SALES BY ITEM TYPE
+
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/10b4aeb4-b56f-40f8-b629-209a744db76f)
+
+SALES BY FAT CONTENT
+
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/7c5d2249-c7c1-45c8-bb0b-420fcd307110)
 
