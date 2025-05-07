@@ -94,21 +94,25 @@ For any queries or suggestions, feel free to connect.
 
 SALES BY OUTLER SIZE
 
-![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/562cc4a2-3be1-4b35-a6b2-6b934169a16f)
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/e7697ead-d77f-44ae-aae2-b41f6e9c860d)
+
 
 OUTLET ESTABLISHMENT
 
-![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/b2de66c9-8661-461a-84d4-a35df39f15aa)
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/920062ad-f58c-48c6-82a6-9c32b210505c)
+
 
 OUTLET TIER BY FAT CONTENT
 
-![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/ff20ecef-3d62-41e8-9b90-4a0e325d297e)
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/9a1d77f1-103a-4c12-a7c9-31ea0e045156)
+
 
 TOTAL SALES BY ITEM TYPE
 
-![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/10b4aeb4-b56f-40f8-b629-209a744db76f)
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/1d2f9729-3b83-4bdc-8066-9cfe5fef6a30)
 
 SALES BY FAT CONTENT
 
-![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/7c5d2249-c7c1-45c8-bb0b-420fcd307110)
+![Screenshot 2025-05-07 131004](https://github.com/user-attachments/assets/b6384608-30d7-4296-a372-d3d11efd4906)
+
 
